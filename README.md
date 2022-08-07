@@ -51,6 +51,13 @@ than you can see webapp by opening :
 
 http://localhost:3000/
 
+### Libraries used in the project
+
+- [scrapy](https://scrapy.org/)
+- [Flask](https://flask.palletsprojects.com/en/2.1.x/installation/)
+- [flask-corse](https://flask-cors.readthedocs.io/en/latest/)
+- [requests](https://pypi.org/project/requests/)
+
 
 
 

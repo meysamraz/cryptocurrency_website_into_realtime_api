@@ -1,4 +1,0 @@
-scrapy
-flask-cors
-Flask
-requests

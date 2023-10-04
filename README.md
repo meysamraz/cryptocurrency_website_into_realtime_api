@@ -46,7 +46,7 @@ Keep in mind that web scraping exists in a gray area, with policies varying from
 
 `scrapyrt`
 
-Than you can see raw result by opening :
+Then you can see raw result by opening :
 
 http://localhost:9080/crawl.json?start_requests=true&spider_name=cryptocurrecnydata
 

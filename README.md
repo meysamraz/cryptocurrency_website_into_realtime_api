@@ -23,7 +23,7 @@ Cryptocurrency market data is highly volatile and can change rapidly. Traditiona
 1. Adapt to Website Changes:
 Scrapyrt is a powerful tool for web scraping, but it has limitations. One key consideration is that it works by decoding the HTML code you define. If the target website changes its HTML structure, your API may cease to function correctly. Regularly monitor and adapt your scraping code to accommodate website updates.
 
-2.Respect Website Policies:
+2. Respect Website Policies:
 Keep in mind that web scraping exists in a gray area, with policies varying from website to website. While some websites don't explicitly prohibit scraping, others have strict anti-scraping policies and may block your requests. Exercise caution and always review a website's terms of service and policies before scraping its data.
 
 ## Setup and Local Development
